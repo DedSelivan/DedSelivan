@@ -2,6 +2,6 @@
 
 About me
 
-response
+my jobs
 
-play
+my work

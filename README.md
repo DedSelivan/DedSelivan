@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Manual testing, Postman**
 
-- 📫 How to reach me **vselivanov89@yandex.ru**
+- 📫 How to reach me **i@vselivanov89.ru**
 
 - ⚡ Facts about me **I also love Thai boxing**
 
